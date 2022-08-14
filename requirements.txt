@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+plotly
+chart-studio
+mne
+torch
+torchvision
+pytorch-model-summary
+pytorch-lightning
+wandb
+#

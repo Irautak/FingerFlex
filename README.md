@@ -37,7 +37,9 @@ Motor brain-computer interface (BCI) development relies critically on neural tim
 Model architecture 
 
 ## Results 
-Graph with time serias 
+
+We test our FingerFlex on multiple datasets BCI Competition IV and Stanfore which covers various subjects and different ECoG positions.
+
 
 
 TO DO 

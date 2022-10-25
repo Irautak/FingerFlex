@@ -1,5 +1,6 @@
 TODO:
 - make by default this branch. remove another.( transfer to main) 
+- Rename repo -> FingerFlex 
 - Add architecture 
 - Add abstract
 - Add results 

@@ -17,19 +17,20 @@ TODO:
     ·
     <a href="https://github.com/kovalalvi">Alexander Kovalev</a>
     ·
-    <a href="https://scholar.google.com/citations?hl=en&user=5G-2EFcAAAAJ">Xuetao Feng</a>
-    ·
-    Yan Wang
-    ·
-    <a href="http://staff.ustc.edu.cn/~juyong/">Juyong Zhang</a>
+    <a href="http://staff.ustc.edu.cn/~juyong/">Alex Timchenko</a>
 
   </p>
-  <h3 align="center"><a href="https://arxiv.org/pdf/2206.15258.pdf">Paper</a> | <a href="https://ustc3dv.github.io/ndr/">Project Page</a> | <a href="https://rainbowrui.github.io/data/NDR_poster.pdf">Poster</a></h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2206.15258.pdf">Paper</a> | <a href="https://ustc3dv.github.io/ndr/">Project Page</a> | Some text </h3>
   <div align="center"></div>
 </p>
 
-Abstract here
+<p align="center">
+We propose FingerFlex, a model which reconstruct finger movements from brain activity(ECoG).
+</p>
+<br>
 
+## Abstract 
+Motor brain-computer interface (BCI) development relies critically on neural time series decoding algorithms. Recent advances in deep learning architectures allow for automatic feature selection to approximate higher-order dependencies in data. This article presents the FingerFlex model - a convolutional encoder-decoder architecture adapted for finger movement regression on electrocorticographic (ECoG) brain data. State-of-the-art performance was achieved on a publicly available BCI competition IV dataset 4 with a correlation coefficient between true and predicted trajectories up to 0.74. The presented method provides the opportunity for developing fully-functional high-precision cortical motor brain-computer interfaces.
 
 ## Model 
 
@@ -42,6 +43,8 @@ Graph with time serias
 TO DO 
 Add video here. Just make crop from video which Alex sent
 
+
+## How to check
 
 ## Citation
 

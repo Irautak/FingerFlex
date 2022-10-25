@@ -1,6 +1,10 @@
-TODO: MAKE README
-
-# 
+TODO:
+- Add architecture 
+- Add abstract
+- Add results 
+- Add video here 
+- Add how to cite
+- Add pwc buttom above
 
 
 <p align="center">
@@ -25,11 +29,11 @@ TODO: MAKE README
 Abstract here
 
 
-# Model 
+## Model 
 
 Model architecture 
 
-# Results 
+## Results 
 Graph with time serias 
 
 

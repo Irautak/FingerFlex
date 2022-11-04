@@ -17,10 +17,10 @@ TODO:
     ·
     <a href="https://github.com/kovalalvi">Alexander Kovalev</a>
     ·
-    <a href="http://staff.ustc.edu.cn/~juyong/">Alex Timchenko</a>
+    <a href="">Alex Timchenko</a>
 
   </p>
-  <h3 align="center"><a href="https://arxiv.org/pdf/2206.15258.pdf">Paper</a> | <a href="https://ustc3dv.github.io/ndr/">Project Page</a> | Some text </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2211.01960">Paper</a> | <a href="https://ustc3dv.github.io/ndr/">Project Page</a> | Some text </h3>
   <div align="center"></div>
 </p>
 

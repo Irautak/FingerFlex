@@ -25,7 +25,7 @@ TODO:
 </p>
 
 <p align="center">
-We propose FingerFlex, a new state of the art model in prediction finger movements from brain activity(ECoG).
+We propose FingerFlex, a new state of the art model for prediction finger movements from brain activity(ECoG).
 </p>
 <br>
 

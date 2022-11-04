@@ -51,10 +51,10 @@ Add video here. Just make crop from video which Alex sent
 ## Citation
 
 ```
-@article{hertz2022prompt,
-  title={fMRI from EEG is only Deep Learning away: the use of interpretable DL to unravel EEG-fMRI relationships},
-  author={Hertz, Amir and Mokady, Ron and Tenenbaum, Jay and Aberman, Kfir and Pritch, Yael and Cohen-Or, Daniel},
-  journal={arXiv preprint arXiv:2208.01626},
+@article{fingerflex2022,
+  title={FingerFlex: Inferring Finger Trajectories from ECoG signals},
+  author={Lomtev, Vladislav and Kovalev, Alexander and Timchenko, Alexey},
+  journal={arXiv preprint arXiv:2211.01960},
   year={2022}
 }
 ```

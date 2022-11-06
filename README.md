@@ -1,14 +1,20 @@
+
 TODO:
 
-- make by default this branch. remove another.( transfer to main) 
-- Rename repo -> FingerFlex 
-- Add architecture 
-- Add abstract
-- Add results 
-- Add video here 
-- Add how to cite
-- Add pwc buttom above
-- Add twister
+Sanya
+- Improve architecture design
+- Prepare video visualization
+
+Vlad
+- Prepare how to run readme. 
+- Make project page as in reference
+- Add description and tables with figures onweb page
+
+
+General
+- add pwc paper + sota
+- twitter + linked in 
+- thread preparation
 
 
 <p align="center">

@@ -43,8 +43,10 @@ We test our FingerFlex on multiple datasets BCI Competition IV and Stanfore whic
 
 
 
-TO DO 
-Add video here. Just make crop from video which Alex sent
+https://user-images.githubusercontent.com/30879198/200183717-b6c30904-bcec-4eff-a9f3-201f2ab79bb3.mp4
+
+
+
 
 
 ## How to check

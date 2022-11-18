@@ -2,8 +2,8 @@
 TODO:
 
 Sanya
-- Improve architecture design
-- Prepare video visualization
+- Improve architecture design -> **done**
+- Prepare video visualization -> **in progress**
 
 Vlad
 - Prepare how to run readme. 
@@ -42,8 +42,11 @@ Motor brain-computer interface (BCI) development relies critically on neural tim
 
 ## Model 
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/55140479/202727963-ee8dfcda-2ca1-496d-ac5b-ae1c5d4e82eb.png" alt="drawing"  width="800" />
+</p>
 
-![fingerflex-Page-2 drawio (7)](https://user-images.githubusercontent.com/55140479/202727963-ee8dfcda-2ca1-496d-ac5b-ae1c5d4e82eb.png)
+<!-- ![fingerflex-Page-2 drawio (7)]() -->
 
 
 Model architecture 

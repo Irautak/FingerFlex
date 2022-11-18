@@ -42,6 +42,10 @@ Motor brain-computer interface (BCI) development relies critically on neural tim
 
 ## Model 
 
+
+![fingerflex-Page-2 drawio (7)](https://user-images.githubusercontent.com/55140479/202727963-ee8dfcda-2ca1-496d-ac5b-ae1c5d4e82eb.png)
+
+
 Model architecture 
 
 ## Results 

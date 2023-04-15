@@ -1,22 +1,3 @@
-
-TODO:
-
-Sanya
-- Improve architecture design -> **done**
-- Prepare video visualization -> **in progress**
-
-Vlad
-- Prepare how to run readme. 
-- Make project page as in reference
-- Add description and tables with figures onweb page
-
-
-General
-- add pwc paper + sota
-- twitter + linked in 
-- thread preparation
-
-
 <p align="center">
 
   <h1 align="center">FingerFlex: Inferring Finger Trajectories from ECoG signals</h1>

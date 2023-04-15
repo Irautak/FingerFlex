@@ -9,12 +9,12 @@
     <a href="">Alex Timchenko</a>
 
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2211.01960">Paper</a> | <a href="https://ustc3dv.github.io/ndr/">Project Page</a> | Some text </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2211.01960">Paper</a> </h3>
   <div align="center"></div>
 </p>
 
 <p align="center">
-We propose FingerFlex, a new state of the art model for prediction finger movements from brain activity(ECoG).
+We propose FingerFlex, a new state of the art model for prediction finger movements from brain activity (ECoG).
 </p>
 <br>
 
@@ -30,7 +30,9 @@ Motor brain-computer interface (BCI) development relies critically on neural tim
 <!-- ![fingerflex-Page-2 drawio (7)]() -->
 
 
-Model architecture 
+Figure 1. Model architecture. The proposed model is designed in the same way as the convolutional autoencoder. It allows to capture local and global features from brain signals.  Our model is fully convolutional so we can use different time window during real time prediction and tune this parameter for reducing temporal delay.
+
+
 
 ## Results 
 
@@ -42,6 +44,12 @@ https://user-images.githubusercontent.com/30879198/200183717-b6c30904-bcec-4eff-
 
 
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/55140479/232242216-def29c1e-f220-439f-a9c9-a50d8654a30c.png" alt="drawing"  width="600" />
+</p>
+
+
+An example of true and decoded finger trajectories time series on BCI Competition IV dataset. 
 
 
 ## How to check

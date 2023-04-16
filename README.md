@@ -36,21 +36,24 @@ Figure 1. Model architecture. The proposed model is designed in the same way as 
 
 ## Results 
 
-We test our FingerFlex on multiple datasets BCI Competition IV and Stanfore which covers various subjects and different ECoG positions.
+We test our FingerFlex on multiple datasets BCI Competition IV and Stanford which covers various subjects and different ECoG positions.
 
-
-
-
+Video.
 https://user-images.githubusercontent.com/55140479/232328031-6746d5ce-e807-4c70-aa1d-b128d5dec89d.mp4
 
-
-https://user-images.githubusercontent.com/30879198/200183717-b6c30904-bcec-4eff-a9f3-201f2ab79bb3.mp4
-
-
-
+Plot.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/55140479/232242216-def29c1e-f220-439f-a9c9-a50d8654a30c.png" alt="drawing"  width="600" />
 </p>
+
+
+
+### Metrics
+
+
+![image](https://user-images.githubusercontent.com/55140479/232328224-4e12494b-7b6b-43c3-9e75-eb311b7053c1.png)
+
+Performance comparison on works solving BCI Competition IV dataset 4 finger trajectory decoding task
 
 
 An example of true and decoded finger trajectories time series on BCI Competition IV dataset. 

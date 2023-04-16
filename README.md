@@ -39,7 +39,9 @@ Figure 1. Model architecture. The proposed model is designed in the same way as 
 We test our FingerFlex on multiple datasets BCI Competition IV and Stanford which covers various subjects and different ECoG positions.
 
 Video.
+
 https://user-images.githubusercontent.com/55140479/232328031-6746d5ce-e807-4c70-aa1d-b128d5dec89d.mp4
+
 
 Plot.
 <p align="center">

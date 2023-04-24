@@ -49,7 +49,6 @@ Video demonstration on BCI Competition IV dataset.
 </div>
 
 
-
 Graphics on the same dataset.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/55140479/232242216-def29c1e-f220-439f-a9c9-a50d8654a30c.png" alt="drawing"  width="800" />
@@ -58,15 +57,22 @@ Graphics on the same dataset.
 Figure 2. An example of true and decoded finger trajectories time series on BCI Competition IV dataset. 
 
 
-### Metrics
+## Metrics
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://user-images.githubusercontent.com/55140479/232328224-4e12494b-7b6b-43c3-9e75-eb311b7053c1.png" alt="drawing"  width="400" />
 </p>
 
-Figure 3. Performance comparison on works solving BCI Competition IV dataset 4 finger trajectory decoding task
+<p align="center">
+ <img src="" alt="drawing"  width="400" />
+</p>
+ -->
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55140479/232328224-4e12494b-7b6b-43c3-9e75-eb311b7053c1.png" width="600" />
+</p>
+Figure 3. Performance comparison on BCI Competition IV dataset: finger trajectory decoding task.
 
 ## How to check
 

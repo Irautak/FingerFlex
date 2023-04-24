@@ -2,11 +2,11 @@
 
   <h1 align="center">FingerFlex: Inferring Finger Trajectories from ECoG signals</h1>
   <p align="center">
-    <a href="https://rainbowrui.github.io/">Vladislav Lomtev</a>
+    <a href="https://github.com/Irautak">Vladislav Lomtev</a>
     ·
     <a href="https://github.com/kovalalvi">Alexander Kovalev</a>
     ·
-    <a href="">Alex Timchenko</a>
+    <a href="https://github.com/atimcenko">Alex Timchenko</a>
 
   </p>
   <h3 align="center"><a href="https://arxiv.org/abs/2211.01960">Paper</a> </h3>

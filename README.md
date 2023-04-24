@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fingerflex-inferring-finger-trajectories-from/brain-decoding-on-bci-competition-iv-ecog-to)](https://paperswithcode.com/sota/brain-decoding-on-bci-competition-iv-ecog-to?p=fingerflex-inferring-finger-trajectories-from)
+
 <p align="center">
 
   <h1 align="center">FingerFlex: Inferring Finger Trajectories from ECoG signals</h1>
